@@ -1,0 +1,9 @@
+{
+	"name": "coming-and-going-to-work",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"moment": "^2.18.1",
+		"papaparse": "^4.2.0"
+	}
+}
