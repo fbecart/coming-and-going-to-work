@@ -9,9 +9,13 @@ Computes statistics out of the CSV export of the "Coming and going to work" spre
 
 3. Download dependencies
 
-    cd coming-and-going-to-work
-    npm install
+```
+cd coming-and-going-to-work
+npm install
+```
 
 4. Run the script on the downloaded CSV file
 
-    node index.js Coming\ and\ going\ to\ work\ -\ Sheet1.csv
+```
+node index.js Coming\ and\ going\ to\ work\ -\ Sheet1.csv
+```
